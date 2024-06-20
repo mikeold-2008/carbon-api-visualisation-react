@@ -1,6 +1,6 @@
 # NG ESO React Data Fetching
 
-This app uses the National Grid's Carbon Intensity API in order to retrieve data about the current carbon level, and energy mix, of various regions in the UK.
+This app uses the National Grid's Carbon Intensity API in order to retrieve data about the current carbon level, and energy mix, of various regions in the UK. Live hosted version available at: https://carbon-data.netlify.app/
 
 To use:
 1) Fork/clone the repo
